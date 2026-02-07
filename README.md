@@ -1,82 +1,83 @@
 <h1 align="center">Hi 👋, I'm Adix</h1>
-<h3 align="center">Web Developer • JavaScript • Firebase</h3>
+<h3 align="center">Web Developer | JavaScript | Firebase</h3>
 
 <p align="center">
-I build real-world web apps with clean UI and solid logic.
+I focus on building clean, practical, and real-world web applications with proper logic and secure data handling.
 </p>
 
 ---
 
-## 🧠 About Me
-- 💻 Passionate Web Developer  
-- 🔥 Love building **logic-based projects**
-- 🌱 Currently working with **JavaScript & Firebase**
-- 🎯 Goal: Become a strong Full-Stack Developer
+## 👨‍💻 About Me
+- Passionate **Web Developer**
+- Interested in **real-world & logic-driven projects**
+- Currently working with **JavaScript and Firebase**
+- Goal: Grow into a reliable **Full-Stack Developer**
 
 ---
 
 ## 🛠 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github" />
 </p>
 
 ---
 
-## 🚀 Featured Project (MAIN PROJECT)
+## ⭐ Featured Project
 
-### 💰 Track My Paisa – Expense Tracker App
+### 💰 Track My Paisa — Expense Tracker Web App
 
-A complete **real-world expense tracker** built using **Firebase** where every user gets their **own private data**.
+A **real-world expense tracking web application** where users can securely manage their personal expenses.  
+Each user’s data is **private, isolated, and safely stored** using Firebase.
 
-🔑 **Key Features**
-- 🔐 Secure Login & Authentication  
-- 👤 User-specific data (no data mixing)
-- ➕ Add / Edit / Delete expenses
-- 📊 Clean dashboard UI
-- ☁️ Firebase Firestore integration
-- ⚡ Fast & responsive design
+### 🔑 Key Features
+- Secure user authentication
+- User-specific expense data
+- Add and delete expenses
+- Clean and simple dashboard UI
+- Firebase Firestore backend
 
-🛠 **Tech Used**
-- HTML
-- CSS
-- JavaScript
-- Firebase (Auth + Firestore)
+### 🗂 Database Structure
 
-👉 This project shows my understanding of:
-- Authentication flow  
-- Database structure  
-- Frontend + backend logic  
-- Real app architecture  
+This structure ensures:
+- Complete **data separation** for each user
+- No data mixing
+- Secure and scalable architecture
 
-🔗 **Repo Link:**  
-(Add your expense tracker repo link here)
+### 🧠 What This Project Demonstrates
+- Strong understanding of authentication flow
+- Proper Firestore database design
+- Frontend and backend integration
+- Real-world application logic
+
+🔗 **Repository:**  
+(Add your expense tracker repository link here)
 
 ---
 
 ## 📂 Other Projects
 - 🌍 **Tour & Travel Website**  
-  Responsive UI-based travel website with modern layout
+  Responsive website with modern layout and UI
 
-- 🎁 **Special Event Landing Pages**  
-  Single-page designs with cards, buttons & sections
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adixportal&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixportal&layout=compact&theme=radical" />
-</p>
+- 🎨 **UI & Landing Page Projects**  
+  Clean, structured single-page designs
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adixportal&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixportal&layout=compact" />
+</p>
+
+---
+
+## 📫 Contact
 - 📧 Email: sanketsharma.web@gmail.com  
 - 📱 WhatsApp: +91 63673 17712  
 
 ---
 
-⭐ If you like my work, don’t forget to star ⭐ the repositories!
+⭐ Thank you for visiting my GitHub profile.
